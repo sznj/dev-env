@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/opt/chenbin/workspace/projects/PD1708/vendor/vivo/oem/PD1709F_EX-N'
+let g:netrw_dirhist_2='/opt/chenbin/workspace/TD1602_vivo_qcom_LA.UM.5.3-02910-89xx.0_msm8937/device/qcom/msm8937_32'
+let g:netrw_dirhist_3='/opt/chenbin/temp/c-lang/test'
